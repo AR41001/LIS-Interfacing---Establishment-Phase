@@ -1,4 +1,5 @@
------------STEPS TO RUN THE CODE-----------------------------------------
+STEPS TO RUN THE CODE:
+
     Go to the file location and open terminal
     Run the command on terminal " cargo build ". This will compile libraries and create executable files
     Run the command on terminal " cargo run "
