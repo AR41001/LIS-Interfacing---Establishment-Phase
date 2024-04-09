@@ -7,7 +7,7 @@ STEPS TO RUN THE CODE:
 
 LIS Interfacing - Establishment Phase
 
-This code implements the establishment phase for Laboratory Information System (LIS) interfacing according to the data link layer protocol. The establishment phase is the initial handshake between a client and a machine to establish a connection.
+This code implements the establishment phase for Laboratory Information System (LIS) interfacing according to the data link layer protocol. The data link layer is one of the 4 layers which are part of the LIS Protocol. This layer is at the lowest level.  The establishment phase is the initial handshake between a client and a machine to establish a connection.
 
 Features:
 
