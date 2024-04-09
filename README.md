@@ -1,3 +1,9 @@
+-----------STEPS TO RUN THE CODE-----------------------------------------
+    Go to the file location and open terminal
+    Run the command on terminal " cargo build ". This will compile libraries and create executable files
+    Run the command on terminal " cargo run "
+    I tested the code on Raspberry Pi Zero 2w
+
 LIS Interfacing - Establishment Phase
 
 This code implements the establishment phase for Laboratory Information System (LIS) interfacing according to the data link layer protocol. The establishment phase is the initial handshake between a client and a machine to establish a connection.
